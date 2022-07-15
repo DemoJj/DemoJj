@@ -1,22 +1,15 @@
-## 👻 Hi! Nice to see you!
-![Github Stats](https://github-readme-stats.vercel.app/api?username=DemoJj&show_icons=true&theme=light&count_private=true)
+## 👻 Hi , I'm DemoJx !
+### ⭐️ Github Star
+<img src="https://github-readme-stats.vercel.app/api?username=DemoJj&show_icons=true&icon_color=3080ec&text_color=3080ec&bg_color=ffffff&hide_title=true" />
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DemoJj&theme=light&layout=compact)
+### 🥊 Tech Stack 
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
 
-<!--
-**DemoJj/DemoJj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📶 Visit Counter
+<img src="https://profile-counter.glitch.me/DemoJj/count.svg" />
 
 
 
