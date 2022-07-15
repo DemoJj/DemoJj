@@ -1,5 +1,5 @@
 ## 👻 Hi , I'm DemoJx !
-<img align="right" src="https://raw.githubusercontent.com/DemoJj/DemoJj/main/come_on.webp" />
+<img align="right" src="https://raw.githubusercontent.com/DemoJj/DemoJj/main/come_on.webp" width="250"/>
 
 ### ⭐️ Github Star
 <img src="https://github-readme-stats.vercel.app/api?username=DemoJj&show_icons=true&icon_color=3080ec&text_color=3080ec&bg_color=ffffff&hide_title=true" />
