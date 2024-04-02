@@ -10,11 +10,6 @@
 ![Rollup](https://img.shields.io/badge/-Rollup-%232C3A42?style=for-the-badge&logo=rollup.js)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 
-### Github Star
-<img src="https://github-readme-stats.vercel.app/api?username=DemoJj&show_icons=true&icon_color=3080ec&text_color=3080ec&bg_color=ffffff&hide_title=true" />
-
-### Visit Counter
-<img src="https://profile-counter.glitch.me/DemoJj/count.svg" />
 
 
 
