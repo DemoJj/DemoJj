@@ -1,15 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Demo%20Jx&fontSize=80&fontAlignY=35&animation=twinkling&desc=前端开发者%20|%20开源爱好者%20|%20工作流架构师&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Demo%20Jx&fontSize=80&fontAlignY=35&animation=twinkling&desc=前端开发者%20|%20开源爱好者%20&descAlignY=55&descAlign=50" />
 
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=AI+工作流平台开发;打造低代码平台处理解决方案;让代码更简洁，让生活更美好)](https://git.io/typing-svg)
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-DemoJj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DemoJj)
-[![Location](https://img.shields.io/badge/📍_广州，中国-red?style=for-the-badge)](https://github.com/DemoJj)
 
 </div>
 
